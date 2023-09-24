@@ -1,16 +1,22 @@
-### Hi there 👋
+👋 Olá, eu sou Marcos!
 
-<!--
-**beckmarcos/beckmarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🖥️ Atualmente trabalho no suporte técnico, onde utilizo meu conhecimento para solucionar problemas técnicos e auxiliar as pessoas.
+ 
+-🔔 Sou apaixonado por tecnologia e estou sempre em busca de aprender mais e aprimorar minhas habilidades na área.
 
-Here are some ideas to get you started:
+-🎮 Nas horas vagas, você pode me encontrar jogando video games e explorando novos mundos virtuais.
+ 
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />    
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+<a href="https://www.linkedin.com/in/marcos-beck-03a966267" target="_blank"><img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+</div>
+            
+          
+          
