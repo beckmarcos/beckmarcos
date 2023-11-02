@@ -1,11 +1,7 @@
 👋 Olá, eu sou Marcos!
 
 -🖥️ Atualmente trabalho no suporte técnico, onde utilizo meu conhecimento para solucionar problemas técnicos e auxiliar as pessoas.
- 
--🔔 Sou apaixonado por tecnologia e estou sempre em busca de aprender mais e aprimorar minhas habilidades na área.
-
--🎮 Nas horas vagas, gosto de jogar vídeo game e me aprofundar nos mais variados assuntos.
- 
+  
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
